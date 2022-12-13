@@ -12,8 +12,6 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm John Romero</h1>
 <h3 align="center">A passionate Junior Full stack developer</h3>
 
-- 📫 How to reach me **romerojohn1012@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/john romero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john romero" height="30" width="40" /></a>
